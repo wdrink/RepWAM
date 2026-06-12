@@ -92,7 +92,7 @@ We evaluate our model on a Franka dual-arm robot platform across three manipulat
 
 ### RoboTwin 2.0
 
-Trained from scratch without a pretrained video-generation backbone, RepWAM reaches competitive results on RoboTwin 2.0, *i.e.,* 89.3 on Easy and 88.4 on Hard over the 50-task RoboTwin suite.
+Trained from scratch without WAN initialization, RepWAM reaches competitive results on RoboTwin 2.0, *i.e.,* 89.3 on Easy and 88.4 on Hard over the 50-task RoboTwin suite.
 
 | Model | Backbone pretrained | Hor-2 Easy | Hor-2 Hard | Hor-3 Easy | Hor-3 Hard | 50-task Easy | 50-task Hard |
 |:--|:--:|--:|--:|--:|--:|--:|--:|
