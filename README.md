@@ -135,7 +135,7 @@ If you find RepWAM helpful, please consider 🌟 our repo and citing the paper.
 @article{wang2026repwam,
   title  = {RepWAM: World Action Modeling with Representation Visual-Action Tokenizers},
   author = {Wang, Junke and Zhang, Qihang and Yang, Shuai and Luo, Yiming and Shen, Yujun and Wu, Zuxuan and Jiang, Yu-Gang and Xu, Yinghao},
-  journal={arXiv preprint arXiv:2606.13674},
+  journal= {arXiv preprint arXiv:2606.13674},
   year   = {2026}
 }
 ```
