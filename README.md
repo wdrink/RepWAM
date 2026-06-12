@@ -22,7 +22,7 @@
   </p>
 
   <p>
-    <a href="#citation"><img src="https://img.shields.io/badge/Paper-RepWAM-b31b1b.svg" alt="Paper"></a>
+    <a href="https://arxiv.org/abs/2606.13674"><img src="https://img.shields.io/badge/Paper-RepWAM-b31b1b.svg" alt="Paper"></a>
     <a href="https://wdrink.github.io/RepWAM/"><img src="https://img.shields.io/badge/Project-RepWAM-blue.svg" alt="Project"></a>
     <a href="https://huggingface.co/papers/2606.13674"><img src="https://img.shields.io/badge/Hugging%20Face-RepWAM-ffcc4d?logo=huggingface&logoColor=000" alt="Hugging Face"></a>
     <a href="#citation"><img src="https://img.shields.io/badge/Google%20Scholar-BibTeX-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar BibTeX"></a>
