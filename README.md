@@ -22,10 +22,10 @@
   </p>
 
   <p>
-    <a href="#citation"><img src="https://img.shields.io/badge/Paper-RepWAM-b31b1b.svg" alt="Paper"></a>
-    <a href="https://huggingface.co/RepWAM"><img src="https://img.shields.io/badge/Hugging%20Face-RepWAM-ffcc4d?logo=huggingface&logoColor=000" alt="Hugging Face"></a>
-    <a href="#citation"><img src="https://img.shields.io/badge/Google%20Scholar-BibTeX-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar BibTeX"></a>
+    <a href="https://arxiv.org/abs/2606.13674"><img src="https://img.shields.io/badge/Paper-RepWAM-b31b1b.svg" alt="Paper"></a>
     <a href="https://wdrink.github.io/RepWAM/"><img src="https://img.shields.io/badge/Project-RepWAM-blue.svg" alt="Project"></a>
+    <a href="https://huggingface.co/papers/2606.13674"><img src="https://img.shields.io/badge/Hugging%20Face-RepWAM-ffcc4d?logo=huggingface&logoColor=000" alt="Hugging Face"></a>
+    <a href="#citation"><img src="https://img.shields.io/badge/Google%20Scholar-BibTeX-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar BibTeX"></a>
   </p>
 </div>
 
@@ -92,7 +92,7 @@ We evaluate our model on a Franka dual-arm robot platform across three manipulat
 
 ### RoboTwin 2.0
 
-Trained from scratch without a pretrained video-generation backbone, RepWAM reaches competitive results on RoboTwin 2.0, *i.e.,* 89.3 on Easy and 88.4 on Hard over the 50-task RoboTwin suite.
+Trained from scratch without WAN initialization, RepWAM reaches competitive results on RoboTwin 2.0, *i.e.,* 89.3 on Easy and 88.4 on Hard over the 50-task RoboTwin suite.
 
 | Model | Backbone pretrained | Hor-2 Easy | Hor-2 Hard | Hor-3 Easy | Hor-3 Hard | 50-task Easy | 50-task Hard |
 |:--|:--:|--:|--:|--:|--:|--:|--:|
@@ -135,6 +135,7 @@ If you find RepWAM helpful, please consider 🌟 our repo and citing the paper.
 @article{wang2026repwam,
   title  = {RepWAM: World Action Modeling with Representation Visual-Action Tokenizers},
   author = {Wang, Junke and Zhang, Qihang and Yang, Shuai and Luo, Yiming and Shen, Yujun and Wu, Zuxuan and Jiang, Yu-Gang and Xu, Yinghao},
+  journal= {arXiv preprint arXiv:2606.13674},
   year   = {2026}
 }
 ```
