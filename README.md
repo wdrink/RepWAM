@@ -7,9 +7,9 @@
     Shuai Yang<sup>2</sup> &nbsp;&nbsp;
     Yiming Luo<sup>2</sup> &nbsp;&nbsp;
     Yujun Shen<sup>2</sup> &nbsp;&nbsp;
-    Zuxuan Wu<sup>1,*</sup> &nbsp;&nbsp;
-    Yu-Gang Jiang<sup>1,*</sup> &nbsp;&nbsp;
-    Yinghao Xu<sup>2,3,*</sup>
+    Zuxuan Wu<sup>1*</sup> &nbsp;&nbsp;
+    Yu-Gang Jiang<sup>1*</sup> &nbsp;&nbsp;
+    Yinghao Xu<sup>3,2*</sup>
   </p>
 
   <p>
@@ -42,8 +42,7 @@ RepWAM is a representation-centric world action model, built around semantic vis
 ## Open-source Plan
 
 - [2026/06/12] ~~Paper release.~~
-- [2026/06] Inference code release.
-- [2026/06] Code and model weights release.
+- [2026/06] Inference code and model weights release.
 
 ## Method
 
